@@ -71,6 +71,7 @@ Some things I do:
     <img align="right" alt="Stats"
          src="https://github-readme-stats.vercel.app/api?username=CJRoshi&theme=vue-dark&show_icons=true&rank_icon=github">
 
+<p></p>
 #### Art Tools and Other Software
 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
