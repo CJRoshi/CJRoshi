@@ -26,7 +26,7 @@ Here's a short list of my interests:
 Some things I do:
 
 - Commonwealth Honors College Member
-- Research at the UMass Quantum Information Systems Lab
+- Research at UMass ([@ UMass Quantum Information Systems Lab](https://github.com/QisLabUMass))
 - BWSI UAS-SAR graduate ([@bwsiuassar](https://github.com/bwsiuassar))
 - Karate -- Nidan in Shaolin Kenpo
 - Helping run the UMass Minecraft Server
