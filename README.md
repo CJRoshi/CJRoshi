@@ -6,7 +6,7 @@
  <img alt="A GitHub banner depicting either a view of Smuggler's Notch, VT (in Dark Mode), the Washington, D.C. Metro (in Light Mode), or a ripple in the waters of Lake Canobie, NH (in other schemes)." src="https://drive.google.com/uc?export=view&id=1HZdAz_ddW5qKQ_vrn1IN2PoujKFoLl0L">
 </picture>
 
-### Hey! I'm Constantine (but you can call me Nino). I'm a senior at North Andover High School, in North Andover, MA.
+### Hey! I'm Constantine (but you can call me Nino). I'm a rising sophomore at UMass Amherst, studying Electrical Engineering and Physics.
 
 Here's a short list of my interests:
 
@@ -25,11 +25,11 @@ Here's a short list of my interests:
 
 Some things I do:
 
-- NAHS Engineering Club, Founder/Leader
-- National Honors Society Johnson Chapter, Secretary
+- Commonwealth Honors College Member
 - BWSI UAS-SAR graduate ([@bwsiuassar](https://github.com/bwsiuassar))
 - Karate -- Nidan in Shaolin Kenpo
-- Tutoring (both paid and peer tutoring)
+- Helping run the UMass Minecraft Server
+- Research at the UMass Quantum Information Systems Lab
 
 ----
 
