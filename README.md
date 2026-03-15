@@ -15,6 +15,8 @@ Here's a short list of my interests:
 - Radar (Synthetic Aperture Radar)
 - AI/ML
 - Modeling and Predictive Algorithms
+- Detection Algorithms
+- Webdev
 - Photography (Via phone or by drone)
 - Game Modding
 - Digital Art
@@ -23,13 +25,14 @@ Here's a short list of my interests:
 - Eating baklava
 - And many more...
 
-Some things I do:
+Some things I do or have done recently:
 
 - Commonwealth Honors College Member
 - Research at UMass ([@ UMass Quantum Information Systems Lab](https://github.com/QisLabUMass))
 - BWSI UAS-SAR graduate ([@bwsiuassar](https://github.com/bwsiuassar))
 - Karate -- Nidan in Shaolin Kenpo
 - Helping run the UMass Minecraft Server
+- Developed the ([Classpect Connector](https://cjroshi.github.io/the-classpect-connector/index.html)), a personal webdev project related to Homestuck
 
 
 ----
